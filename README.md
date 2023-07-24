@@ -4,4 +4,4 @@ Rama Yusuf Mahendra, Reza Fuad Rachmadi, Mauridhi Hery Purnomo
 *Submitted to IEEE Systems Journal
 
 ### Methodology Diagram
-![representive_results](/assets/diagram.png)
+![diagram](/assets/diagram.png)
