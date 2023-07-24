@@ -1,0 +1,6 @@
+yolov8l-exdark/best.pt
+yolov8l-gabungan/best.pt
+yolov8l-normal-coco/best.pt
+EfficientFormer/efficientformerv2_l_exdark_coco/*
+EfficientFormer/efficientformerv2_s2_exdark_coco/*
+VGG/results/*
